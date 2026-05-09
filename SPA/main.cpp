@@ -1,6 +1,6 @@
 #include <iostream>
-#include "SPA/SPASystem.h"
-#include "SPA/Beverage.h"
+#include "SPASystem.h"
+#include "Beverage.h"
 
 int main() {
     SPASystem system;

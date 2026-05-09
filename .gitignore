@@ -1,0 +1,38 @@
+# Compiled object files
+*.obj
+*.o
+*.lo
+
+# Executables and build outputs
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+
+# Debug symbols and compiler databases
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+
+# Build directories
+build/
+out/
+x64/
+x86/
+Debug/
+Release/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio user files
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+.vs/
